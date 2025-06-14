@@ -1,5 +1,7 @@
 # Power-BI
 Power BI projects
+
+
 ##amazon sales 
 Developed Power BI dashboard , analyzing sales overview ,, Average Price Analysis and Cars sold Metrics and KPI’s requirement -Build visualization on YTD sales using Pie chart , Map Chart , Table and Line chart based on chart requirement .
 
